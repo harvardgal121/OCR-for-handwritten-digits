@@ -21,21 +21,25 @@ RESULTS
 Stochastic Descent Gradient
 
 nb_epoch = 20
+
 batch_size = 128
+
 Accuracy = 95.75%
 
 
 Adagrad
 
 nb_epoch = 20
+
 batch_size = 128
+
 Accuracy = 98.38%
 
 
 Adam
 
 nb_epoch = 20
+
 batch_size = 128
-optimizer = Adagrad
 
 Accuracy = 98.18%
