@@ -33,7 +33,7 @@ nb_epoch = 20
 
 batch_size = 128
 
-Accuracy = 98.38%
+Accuracy = 98.32%
 
 
 Adam
@@ -42,4 +42,4 @@ nb_epoch = 20
 
 batch_size = 128
 
-Accuracy = 98.18%
+Accuracy = 98.11%
